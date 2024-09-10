@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nimptorso.github.io/sitemap.html.gz
+Sitemap: https://nimptorso.github.io/app/sitemap.html.gz
+Sitemap: https://nimptorso.github.io/assets/sitemap.html.gz
+Sitemap: https://nimptorso.github.io/css/sitemap.html.gz
+Sitemap: https://nimptorso.github.io/includes/sitemap.html.gz
+Sitemap: https://nimptorso.github.io/item/sitemap.html.gz
+Sitemap: https://nimptorso.github.io/src/sitemap.html.gz
